@@ -113,7 +113,7 @@ const InfoPage = () => {
                         <li>Get advice on job search strategies and career development.</li>
                       </ul>
                       <p className="text-sm md:text-base text-gray-700">
-                        Whether you're a recent graduate or an experienced professional, JobConnect has the tools you need to succeed in your career.
+                        Whether you&apos;re a recent graduate or an experienced professional, JobConnect has the tools you need to succeed in your career.
                       </p>
                     </CardContent>
                   </motion.li>
@@ -138,7 +138,7 @@ const InfoPage = () => {
                         <li>Work-life balance, freelancing, and career development tips.</li>
                       </ul>
                       <p className="text-sm md:text-base text-gray-700 mt-4">
-                        Join us in our mission to connect people with opportunities and create a more inclusive job market. With JobConnect, you'll always be in the know.
+                        Join us in our mission to connect people with opportunities and create a more inclusive job market. With JobConnect, you&apos;ll always be in the know.
                       </p>
                     </CardContent>
                   </motion.li>

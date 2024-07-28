@@ -95,7 +95,7 @@ export const JobListingPage = () => {
           className="bg-white rounded-lg shadow-lg p-6 mb-8"
         >
           <h2 className="text-3xl font-semibold mb-2 text-blue-600">Ready to switch a career?</h2>
-          <p className="text-xl text-gray-800 mb-6">Let's get started!</p>
+          <p className="text-xl text-gray-800 mb-6">Let&apos;s get started!</p>
           
           <div className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-4 mb-6">
           <div className="relative">
